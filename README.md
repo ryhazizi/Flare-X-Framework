@@ -1,2 +1,3 @@
-# Flare-X-Framework
-Beta Version (1.0)
+# Flare-X Framework 
+
+Very simple and useful PHP framework.
