@@ -46,7 +46,7 @@ class App extends \flarex\autoload {
       # Subother Page | localhost/flarex-framework/other/sub
       # Controller name: Other
       # Function name: sub
-      $r->prefix('sub')->write_route('subother', 'other', 'sub');
+      $r->prefix('sub')->write_route('sub', 'other', 'sub');
     });
 
     # Execute Router
